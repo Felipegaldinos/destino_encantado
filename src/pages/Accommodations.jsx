@@ -42,7 +42,7 @@ const Accommodations = () => {
   const handleReserveClick = (name) => {
     toast({
       title: `Reservar em ${name}`,
-      description: "🚧 Este recurso ainda não foi implementado, mas não se preocupe! Você pode solicitá-lo no seu próximo prompt! 🚀",
+    
     });
   };
   
